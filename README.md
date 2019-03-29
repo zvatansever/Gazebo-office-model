@@ -1,7 +1,6 @@
 # Gazebo-office-model
 
-This is an example office world in Gazebo: 
-Follow these steps to run in Gazebo
+This is an example office world in Gazebo. You need to delete build folder and follow these steps to run in Gazebo
 
  cd ~/Gazebo-office-model
  
